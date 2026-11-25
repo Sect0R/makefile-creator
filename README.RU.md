@@ -6,8 +6,6 @@
 [![OpenCode](https://img.shields.io/badge/OpenCode-supported-6b8fff)]()
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-d97757)]()
 [![Codex](https://img.shields.io/badge/Codex-supported-74aa9c)]()
-[![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-supported-4285f4)]()
-[![Cursor](https://img.shields.io/badge/Cursor-supported-000000)]()
 
 Портативный `SKILL.md` (agentskills.io); проверен на OpenCode.
 
